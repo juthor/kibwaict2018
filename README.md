@@ -16,7 +16,7 @@ Infobator is a word that combines Incubator and Information, and is an incubator
 
 __💻Web Version__  
 
- ● Infobator 메인 홈페이지
+ ● Infobator 메인 화면
   <center><img src="./img/mainpage.png" alt="" height="250px" width="550px"/></center>
 
  ● Raspberry PI 카메라 센서 웹페이지 연동
@@ -30,11 +30,14 @@ __💻Web Version__
 
 __📱Mobile Version__  
 
- ● Infobator 메인 홈페이지
+ ● Infobator 메인 화면
   <center><img src="./img/mobilemain.png" alt="" height="350px" width="200px"/></center>
  
- ● Raspberry PI 카메라 센서 연동
+ ● 미세먼지 센서 연동
   <center><img src="./img/mobiledust.png" alt="" height="350px" width="200px"/></center>
+
+ ● Raspberry PI 카메라 센서 연동
+  <center><img src="./img/mobilecamera.png" alt="" height="350px" width="200px"/></center>
 
 
 __💡Infobator 모델링__  
