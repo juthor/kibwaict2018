@@ -14,7 +14,7 @@ Infobator is a word that combines Incubator and Information, and is an incubator
 
 ## 👨 💻프로젝트 주요 내용
 
-__💻Web Version__  
+#### 💻Web Version 
 
  ● Infobator 메인 화면
   <center><img src="./img/mainpage.png" alt="" height="250px" width="550px"/></center>
@@ -28,7 +28,7 @@ __💻Web Version__
  ● 미세먼지 센서 웹페이지 연동
   <center><img src="./img/dust.png" alt="" height="250px" width="200px"/></center>
 
-__📱Mobile Version__  
+#### 📱Mobile Version 
 
  ● Infobator 메인 화면
   <center><img src="./img/mobilemain.png" alt="" height="350px" width="200px"/></center>
@@ -40,7 +40,7 @@ __📱Mobile Version__
   <center><img src="./img/mobilecamera.png" alt="" height="350px" width="200px"/></center>
 
 
-__💡Infobator 모델링__  
+#### 💡Infobator 모델링 
   <center><img src="./img/model1.png" alt="" height="250px" width="450px"/></center>
 
   <center><img src="./img/model2.png" alt="" height="250px" width="450px"/></center>
